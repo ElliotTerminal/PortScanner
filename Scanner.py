@@ -1,4 +1,12 @@
 #!/usr/bin/python3
+# ToolName   : Scanner.py
+# Author     : ElliotTerminal
+# License    : GPL V3
+# Copyright  : ElliotTerminal (2022-2023)
+# Github     : https://github.com/ElliotTerminal
+# Description: PortScanner is a port scanning tool
+# Language   : Python
+# If you copy open source code, consider giving credit
 
 import socket
 import sys
